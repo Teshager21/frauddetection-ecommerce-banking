@@ -156,3 +156,6 @@ terraform.tfstate.*
 
 !mlruns/
 !mkdocs.yml
+
+
+pip_cache/
